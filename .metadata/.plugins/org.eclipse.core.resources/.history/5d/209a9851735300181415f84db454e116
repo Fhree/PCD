@@ -1,0 +1,19 @@
+package Ejer2;
+
+import Panel.Panel;
+
+public class MainTest {
+
+	public static void main(String[] args) {
+		Hilo hilo = new Hilo("hilo");
+		Panel panel1 = new Panel("panel1", 620, 500);
+		hilo.crearMatrices();
+		hilo.suma();
+	/*	panel1.escribir_mensaje("Usando panel el hilo: "+ hilo.getNombre()
+								+"\nMatriz A = \t"+hilo.escribir(hilo.getMatrizA())
+								+"\n\nMatriz B = \t"+hilo.escribir(hilo.getMatrizB())
+								+"\n\nMatriz C = \t"+hilo.escribir(hilo.getMatrizC())
+								+"\nTerminando de usar el panel el hilo: "+ hilo.getNombre());*/
+	}
+
+}

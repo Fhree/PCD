@@ -1,0 +1,15 @@
+package Ejer2;
+
+public class MainTest {
+
+	public static void main(String[] args) {
+		Hilo hilo = new Hilo();
+		hilo.crearMatrices();
+		hilo.suma();
+		
+		System.out.println("matriz A :" + hilo.getMatrizA());
+		System.out.println("matriz B :" + hilo.getMatrizB());
+		System.out.println("matriz C :" + hilo.getMatrizC());
+	}
+
+}

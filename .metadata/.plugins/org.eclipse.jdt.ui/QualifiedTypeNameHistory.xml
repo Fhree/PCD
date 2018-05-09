@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.concurrent.locks.ReentrantLock"/>
+<fullyQualifiedTypeName name="Ejer1.HiloSumador"/>
+<fullyQualifiedTypeName name="Ejer1.HiloMultiplicador"/>
+<fullyQualifiedTypeName name="Ejer1.VariableCompartida"/>
+<fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+<fullyQualifiedTypeName name="javax.lang.model.element.VariableElement"/>
+<fullyQualifiedTypeName name="javax.swing.tree.VariableHeightLayoutCache"/>
+<fullyQualifiedTypeName name="Ejer1.Matriz"/>
+<fullyQualifiedTypeName name="Ejer1.HiloMultiplicacion"/>
+<fullyQualifiedTypeName name="Ejer2.Hilo"/>
+<fullyQualifiedTypeName name="Ejer2.Panel"/>
+<fullyQualifiedTypeName name="javax.swing.JFrame"/>
+<fullyQualifiedTypeName name="Ejer2.HiloMaster"/>
+<fullyQualifiedTypeName name="java.util.concurrent.Semaphore"/>
+<fullyQualifiedTypeName name="java.util.Dictionary"/>
+<fullyQualifiedTypeName name="java.util.Hashtable"/>
+<fullyQualifiedTypeName name="Panel.Panel"/>
+<fullyQualifiedTypeName name="Ejer2.MainSemaforos"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+</qualifiedTypeNameHistroy>

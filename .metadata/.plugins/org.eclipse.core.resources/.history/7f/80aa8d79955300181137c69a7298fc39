@@ -1,0 +1,12 @@
+package Ejer3;
+import java.util.Random;
+
+
+public class Hilo extends Thread{
+
+		private int numSeleccionado;
+		
+		private void generarNumero() {
+			numSeleccionado = new Random().nextInt(4);
+		}
+}
